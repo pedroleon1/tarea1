@@ -1,0 +1,71 @@
+*{
+    margin: 10px;
+
+} 
+.padre
+{
+   width: 500px;
+    background-color: darkgreen;
+    padding: 30px;
+     border-radius: 50px;
+}
+
+.nieto1
+{
+    
+    background-color:  green;
+    padding: 30px;
+   border-radius: 50%;
+}
+.nieto2
+{
+    
+    background-color: olive;
+    padding: 30px;
+    border-radius: 50%;
+}
+.nieto3
+{
+    
+   
+    background-color:olivedrab ;
+    padding: 30px;
+    border-radius:50% ;
+    
+}
+.nieto4
+{
+    
+   
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 50%;
+    
+   
+
+}
+.nieto5
+{
+   
+    background-color:yellow;
+    padding: 30px;
+    border-radius: 50%;
+}
+.nieto6
+{
+   
+    
+    background-color:greenyellow;
+    padding: 30px;
+    border-radius: 50%;
+
+}
+.nieto7
+{
+   
+  
+    background-color:green;
+     padding: 30px;
+    border-radius: 50%;
+
+}
